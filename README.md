@@ -1,4 +1,5 @@
-AI‑Driven Business Insights Assistant
+AI‑Driven Business Insights Assistant:
+
 This project builds a full AI/ML pipeline to predict customer churn using a real‑world CRM dataset from a telecommunications provider.
 It demonstrates the complete lifecycle of an AI solution:
 
